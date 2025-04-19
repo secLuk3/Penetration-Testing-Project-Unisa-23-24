@@ -1,6 +1,6 @@
 # 🛡️ Penetration Testing Project: HackTheBox - Bizness
 
-This repository contains a full penetration testing assessment of the *Bizness* machine from [Hack The Box](https://app.hackthebox.com/machines/Bizness), conducted as part of the university course **Penetration Testing and Ethical Hacking** at the **University of Salerno**.
+This repository contains a full penetration testing assessment of the *Bizness* machine from [Hack The Box](https://app.hackthebox.com/machines/Bizness), conducted as part of the university course **Penetration Testing and Ethical Hacking** 23/24 at the **University of Salerno**.
 
 ## 📚 Project Information
 
