@@ -91,7 +91,7 @@ The penetration test followed the standard 9-phase methodology:
 
 - [CVE-2023-49070 - NIST](https://nvd.nist.gov/vuln/detail/CVE-2023-49070)  
 - [CVE-2023-51467 - NIST](https://nvd.nist.gov/vuln/detail/CVE-2023-51467)  
-- [Apache OFBiz SHA1 Cracker GitHub](https://github.com/...)  
+- [Apache OFBiz SHA1 Cracker GitHub](https://github.com/duck-sec/Apache-OFBiz-SHA1-Cracker)  
 - [Hack The Box - Bizness](https://app.hackthebox.com/machines/Bizness)
 
 ---
